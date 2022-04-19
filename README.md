@@ -8,6 +8,9 @@ then in multiples of A + 1 until 2X, then multiples of A + 2 until 3X. Please
 state any assumptions you’ve made. Please upload to a public Github repository 
 and share the link.
 
+The IDE used:
+Apache NetBeans 12.0
+
 
 The Assumptions made during this task:
 
